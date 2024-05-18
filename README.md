@@ -16,3 +16,6 @@ Before moving forward, please make sure that:
 • You already have the right selection on your excel sheet (usually without the headers)
 
 If you're ready to move forward, please click the OK button. Please, note that you will have 8 seconds to go to the first cell of the website table where you want your data inserted.
+
+
+![image](https://github.com/jacksoncaquino/Survey-Data-Upload/assets/61064363/a6d2ccc7-1a09-436d-86c6-f129408b02d8)
