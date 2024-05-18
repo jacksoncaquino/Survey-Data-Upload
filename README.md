@@ -13,6 +13,7 @@ If you need assistance importing the BAS file to your Excel file, follow the ins
 1. On Excel, press alt + F11 to open the Visual Basic Editor
 2. On the Visual Basic editor, right click your file and then click on "import file":
 ![image](https://github.com/jacksoncaquino/Survey-Data-Upload/assets/61064363/dc2352e3-3062-4d87-b62b-4096050c544f)
-3. Choose your BAS file that you downloaded from this repository
-4. You'll now have the PutSurveyDataOnForm macro on your list of macros
-5. Select your data, go to view, macros, and then select the macro from the list to run.
+
+4. Choose your BAS file that you downloaded from this repository
+5. You'll now have the PutSurveyDataOnForm macro on your list of macros
+6. Select your data, go to view, macros, and then select the macro from the list to run.
