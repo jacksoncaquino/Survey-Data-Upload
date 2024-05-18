@@ -12,6 +12,7 @@ When you run the macro and are ready to move forward, click the OK button. Pleas
 If you need assistance importing the BAS file to your Excel file, follow the instructions below:
 1. On Excel, press alt + F11 to open the Visual Basic Editor
 2. On the Visual Basic editor, right click your file and then click on "import file":
+
 ![image](https://github.com/jacksoncaquino/Survey-Data-Upload/assets/61064363/dc2352e3-3062-4d87-b62b-4096050c544f)
 
 4. Choose your BAS file that you downloaded from this repository
